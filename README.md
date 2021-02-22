@@ -37,5 +37,8 @@
 
 ![image](https://user-images.githubusercontent.com/54719289/108774339-8a84ef00-7585-11eb-90bd-2146cf50aabf.png)
 
+#Postman with PUT for update:
+
+![image](https://user-images.githubusercontent.com/54719289/108778003-b48ce000-758a-11eb-9d62-a9af491e6279.png)
 
 
